@@ -8,3 +8,6 @@ Fetching data from 3rd Party API with Guzzle in Laravel
 -> php : 7.1.3
 
 -> MySql : 5.6.24
+
+-> Guzzle : 6.3
+
